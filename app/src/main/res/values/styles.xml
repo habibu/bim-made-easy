@@ -7,5 +7,12 @@
         <item name="colorPrimaryDark">@color/colorAccent</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <!-- Base application theme. -->
+    <style name="MagyarTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white_background</item>
+        <item name="colorPrimaryDark">@color/white_background</item>
+        <item name="colorAccent">@color/white_background</item>
+    </style>
 
 </resources>
